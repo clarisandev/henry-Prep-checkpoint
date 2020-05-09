@@ -111,3 +111,4 @@ Chequéa que veas los cambios reflejados en el repo de tu cuenta de github!
 * Tenes que subir el resultado del challenge antes de las 18:00 PM.
 * Podés buscar en internet o en cualquier otro lugar por recursos para que te ayudes.
 * No podés ayudar ni preguntar a tus compañeros de clases.
+

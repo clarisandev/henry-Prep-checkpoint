@@ -1,0 +1,29 @@
+/* * el div contenedor tiene que tener un ancho de 500px, el color de fondo amarillo y estar centrado.
+    * Los elementos de la lista deben tener un tamaño de letra de 25px y ser de color rojo.
+    * la imagen debe estar centrada.
+    * el color del link una vez que se haya clickeado debe ser verde. */
+
+#contenedor {
+    width: 500px;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.list{
+    font-size: 25px;
+    color: red;
+    margin: 0px;
+}
+
+.image{
+    width: 400px;
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+.link:visited{
+    color: green;
+}

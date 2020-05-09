@@ -1,0 +1,112 @@
+#div-negro{
+    height: 300px;
+    width: 500px;
+    background-color: black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 1px 20px 30px 1px solid black;
+    padding: 10px 5px;
+}
+
+#contenedor {
+    display: grid;
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
+    row-gap: 10px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#uno {
+    display: flex;
+    flex-direction: row;
+    border: 5px solid peru;
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#uno-contact {
+    background-color: lightcoral;
+    justify-self: baseline;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    padding: 10px
+}
+#uno-careers {
+    background-color: lightseagreen;
+    justify-self: baseline;
+    display: -webkit-box;
+    -webkit-box-align: center;  
+    padding: 10px
+}
+
+#uno-about {
+    background-color: lightgreen;
+    margin-left: auto;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    padding: 10px
+}
+
+#dos {
+    border: 5px solid lightpink;
+}
+
+
+
+#dos-contact{
+    background-color: lightcoral;
+    height: 50px;
+    margin: 0px;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    -webkit-box-pack: center    
+}
+#dos-careers{
+    margin: 0px;
+    height: 50px;
+    background-color: lightseagreen;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    -webkit-box-pack: center
+}
+#dos-about{
+    height: 50px;
+    background-color: lightgreen;
+    margin: 0px;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    -webkit-box-pack: center
+}
+
+#tres {
+    border: 5px solid peru;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+}
+#tres-contact {
+    background-color: lightcoral;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    padding: 10px
+}
+#tres-careers {
+    background-color: lightseagreen;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    padding: 10px
+}
+#tres-about {
+    background-color: lightgreen;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    padding: 10px
+}
