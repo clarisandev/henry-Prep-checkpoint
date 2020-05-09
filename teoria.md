@@ -20,5 +20,5 @@
 
 * Selector CSS: Es la forma de llamar los elementos de la pagina que querramos modificar o agregarle estilo. Por ejemplo, un a un id se lo llama con un '#' y a una clase con un '.' 
 
-* Un función constructora: se utiliza para crear objetos que comparten propiedades y metodos en común y así no repetir código. 
+* Un función constructora: se utiliza para crear objetos que comparten propiedades y metodos en común y así no repetir código.
 
